@@ -1,19 +1,19 @@
-# 😷 Real-Time Face Mask Detection
+#  Real-Time Face Mask Detection
 
 This project uses **OpenCV** and **deep learning** to perform real-time face mask detection. It is trained with a dataset of face images (masked and unmasked) to detect whether a person is wearing a mask.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🤖 Real-time face mask detection using a webcam or video feed  
-- 🔬 Model trained using deep learning techniques  
-- 📊 Display of predictions on live video stream  
-- 🔄 Continuous prediction in real-time  
+-  Real-time face mask detection using a webcam or video feed  
+-  Model trained using deep learning techniques  
+-  Display of predictions on live video stream  
+-  Continuous prediction in real-time  
 
 ---
 
-## 🔧 Prerequisites
+##  Prerequisites
 
 This project uses the following Python modules:
 
